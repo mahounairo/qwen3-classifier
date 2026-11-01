@@ -1,0 +1,181 @@
+{
+ "logits-of-gemma->qwen": {
+  "parsed": 100.0,
+  "top1": 54.2,
+  "second": 30.7,
+  "second_in_top3": 62.1,
+  "overlap3": 61.6,
+  "conf_mae": 0.156,
+  "conf_r": 0.586
+ },
+ "logits-of-qwen->gemma": {
+  "parsed": 100.0,
+  "top1": 54.2,
+  "second": 30.7,
+  "second_in_top3": 62.8,
+  "overlap3": 61.6,
+  "conf_mae": 0.157,
+  "conf_r": 0.586
+ },
+ "models_share_second_choice": 30.7,
+ "gemma-gemma-r4": {
+  "all": {
+   "parsed": 99.5,
+   "top1": 80.5,
+   "second": 55.2,
+   "second_in_top3": 87.1,
+   "overlap3": 77.7,
+   "conf_mae": 0.137,
+   "conf_r": 0.662
+  },
+  "where_models_disagree": {
+   "parsed": 99.4,
+   "top1": 80.1,
+   "second": 51.7,
+   "second_in_top3": 84.8,
+   "overlap3": 76.3,
+   "conf_mae": 0.139,
+   "conf_r": 0.654
+  }
+ },
+ "gemma-qwen-r4": {
+  "all": {
+   "parsed": 99.6,
+   "top1": 57.7,
+   "second": 30.4,
+   "second_in_top3": 65.3,
+   "overlap3": 61.0,
+   "conf_mae": 0.15,
+   "conf_r": 0.601
+  },
+  "where_models_disagree": {
+   "parsed": 99.8,
+   "top1": 52.2,
+   "second": 19.7,
+   "second_in_top3": 58.2,
+   "overlap3": 56.6,
+   "conf_mae": 0.154,
+   "conf_r": 0.592
+  }
+ },
+ "qwen-gemma-r4": {
+  "all": {
+   "parsed": 100.0,
+   "top1": 58.9,
+   "second": 30.3,
+   "second_in_top3": 62.9,
+   "overlap3": 60.8,
+   "conf_mae": 0.156,
+   "conf_r": 0.546
+  },
+  "where_models_disagree": {
+   "parsed": 100.0,
+   "top1": 51.9,
+   "second": 16.9,
+   "second_in_top3": 54.5,
+   "overlap3": 55.7,
+   "conf_mae": 0.157,
+   "conf_r": 0.543
+  }
+ },
+ "qwen-qwen-r1": {
+  "all": {
+   "parsed": 99.5,
+   "top1": 79.9,
+   "second": 53.4,
+   "second_in_top3": 83.7,
+   "overlap3": 77.3,
+   "conf_mae": 0.142,
+   "conf_r": 0.642
+  },
+  "where_models_disagree": {
+   "parsed": 99.5,
+   "top1": 77.3,
+   "second": 47.6,
+   "second_in_top3": 80.7,
+   "overlap3": 75.6,
+   "conf_mae": 0.145,
+   "conf_r": 0.639
+  }
+ },
+ "qwen-qwen-r1-inert": {
+  "all": {
+   "parsed": 99.5,
+   "top1": 79.3,
+   "second": 52.3,
+   "second_in_top3": 83.0,
+   "overlap3": 77.2,
+   "conf_mae": 0.143,
+   "conf_r": 0.632
+  },
+  "where_models_disagree": {
+   "parsed": 99.5,
+   "top1": 77.2,
+   "second": 47.1,
+   "second_in_top3": 79.7,
+   "overlap3": 75.4,
+   "conf_mae": 0.146,
+   "conf_r": 0.631
+  }
+ },
+ "qwen-qwen-r16": {
+  "all": {
+   "parsed": 99.5,
+   "top1": 80.2,
+   "second": 55.5,
+   "second_in_top3": 87.0,
+   "overlap3": 79.0,
+   "conf_mae": 0.13,
+   "conf_r": 0.699
+  },
+  "where_models_disagree": {
+   "parsed": 99.5,
+   "top1": 78.2,
+   "second": 49.7,
+   "second_in_top3": 84.3,
+   "overlap3": 77.1,
+   "conf_mae": 0.131,
+   "conf_r": 0.695
+  }
+ },
+ "qwen-qwen-r4": {
+  "all": {
+   "parsed": 99.4,
+   "top1": 78.9,
+   "second": 52.7,
+   "second_in_top3": 85.0,
+   "overlap3": 77.7,
+   "conf_mae": 0.135,
+   "conf_r": 0.671
+  },
+  "where_models_disagree": {
+   "parsed": 99.5,
+   "top1": 76.8,
+   "second": 47.7,
+   "second_in_top3": 83.0,
+   "overlap3": 76.2,
+   "conf_mae": 0.136,
+   "conf_r": 0.67
+  }
+ },
+ "qwen-qwen-r4-inert": {
+  "all": {
+   "parsed": 99.3,
+   "top1": 80.0,
+   "second": 54.6,
+   "second_in_top3": 85.5,
+   "overlap3": 77.7,
+   "conf_mae": 0.136,
+   "conf_r": 0.662
+  },
+  "where_models_disagree": {
+   "parsed": 99.3,
+   "top1": 77.8,
+   "second": 49.8,
+   "second_in_top3": 83.1,
+   "overlap3": 75.6,
+   "conf_mae": 0.137,
+   "conf_r": 0.66
+  }
+ }
+}

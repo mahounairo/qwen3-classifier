@@ -1,0 +1,10 @@
+{"step": 0, "n": 300, "parsed": 0.0, "top1": 0.0, "second": 0.0, "second_in_top3": 0.0, "overlap3": 0.0, "conf_mae": 0.0, "conf_r": NaN}
+{"step": 25, "n": 300, "parsed": 0.0, "top1": 0.0, "second": 0.0, "second_in_top3": 0.0, "overlap3": 0.0, "conf_mae": 0.0, "conf_r": NaN}
+{"step": 50, "n": 300, "parsed": 56.0, "top1": 35.7, "second": 15.0, "second_in_top3": 38.0, "overlap3": 32.4, "conf_mae": 0.177, "conf_r": -0.007}
+{"step": 100, "n": 300, "parsed": 96.0, "top1": 72.3, "second": 38.3, "second_in_top3": 75.0, "overlap3": 66.0, "conf_mae": 0.183, "conf_r": 0.256}
+{"step": 200, "n": 300, "parsed": 99.0, "top1": 78.0, "second": 45.7, "second_in_top3": 79.0, "overlap3": 68.9, "conf_mae": 0.183, "conf_r": 0.249}
+{"step": 300, "n": 300, "parsed": 100.0, "top1": 76.3, "second": 43.7, "second_in_top3": 84.0, "overlap3": 72.4, "conf_mae": 0.18, "conf_r": 0.33}
+{"step": 500, "n": 300, "parsed": 99.7, "top1": 81.3, "second": 46.3, "second_in_top3": 82.0, "overlap3": 73.1, "conf_mae": 0.173, "conf_r": 0.393}
+{"step": 1000, "n": 300, "parsed": 100.0, "top1": 83.3, "second": 52.7, "second_in_top3": 89.3, "overlap3": 77.0, "conf_mae": 0.168, "conf_r": 0.487}
+{"step": 1500, "n": 300, "parsed": 99.3, "top1": 85.0, "second": 54.7, "second_in_top3": 87.0, "overlap3": 77.6, "conf_mae": 0.149, "conf_r": 0.591}
+{"step": 2000, "n": 1500, "parsed": 99.5, "top1": 80.5, "second": 55.2, "second_in_top3": 87.1, "overlap3": 77.7, "conf_mae": 0.137, "conf_r": 0.662}

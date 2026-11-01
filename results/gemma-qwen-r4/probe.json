@@ -1,0 +1,34 @@
+{
+ "frozen_text": {
+  "parsed": 99.6,
+  "top1": 54.6,
+  "second": 29.8,
+  "second_in_top3": 67.0,
+  "overlap3": 60.6,
+  "conf_mae": 0.146,
+  "conf_r": 0.595
+ },
+ "adapter_on_text": {
+  "parsed": 99.8,
+  "top1": 50.8,
+  "second": 26.2,
+  "second_in_top3": 60.8,
+  "overlap3": 58.1,
+  "conf_mae": 0.144,
+  "conf_r": 0.59
+ },
+ "confident_positions": {
+  "parsed": 97.0,
+  "top1": 84.2,
+  "second": 28.6,
+  "second_in_top3": 64.0,
+  "overlap3": 51.7,
+  "conf_mae": 0.36,
+  "conf_r": 0.216
+ },
+ "plain_text": {
+  "kl_bits": 1.2991,
+  "top1_kept": 60.4,
+  "entropy_change_bits": -0.4594
+ }
+}

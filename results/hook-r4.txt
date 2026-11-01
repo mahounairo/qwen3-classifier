@@ -1,0 +1,43 @@
+The coin spun in the air for what felt like forever, and finally landed on
+  true: ' the' 42%  ' its' 26%  ' heads' 16%  ' what' 3%  ' a' 3%
+  said: " the" " its" " heads" =2   (expected digit 3.5)
+
+After three days of deliberation, the jury found the defendant
+  true: ' guilty' 48%  ' not' 23%  ',' 11%  ' ______' 3%  ' innocent' 2%
+  said: " not" " guilty" " Gu" =3   (expected digit 4.2)
+
+When the results finally came in, the experiment turned out to be a complete
+  true: ' failure' 29%  ' success' 14%  ' what' 8%  ' ______' 7%  ' ____' 6%
+  said: " failure" " success" " ______" =4   (expected digit 4.9)
+
+Asked by reporters whether he would run again, the senator said
+  true: ' he' 30%  ',' 23%  ' that' 18%  ':' 4%  ' "' 2%
+  said: " he" " that" " \"" =3   (expected digit 4.3)
+
+She opened the envelope with shaking hands. Her application had been
+  true: ' accepted' 21%  ' rejected' 16%  ' ______' 9%  ' __' 6%  ' successful' 5%
+  said: " accepted" " rejected" " successful" =2   (expected digit 3.1)
+
+he doctor came out of the operating room, took off her mask, and said that the surgery was
+  true: ' a' 44%  ' successful' 34%  ' very' 3%  ' over' 2%  ' complete' 1%
+  said: " a" " successful" " successful" =3   (expected digit 4.1)
+
+After the final whistle, the home team had
+  true: ' a' 19%  ' to' 19%  ' ' 7%  ' the' 5%  ' their' 3%
+  said: " a" " to" " " =1   (expected digit 1.8)
+
+He looked at the two wires, red and blue, and with the timer at three seconds he cut the
+  true: ' red' 54%  ' blue' 15%  ' wires' 9%  ' wire' 6%  ' two' 2%
+  said: " red" " blue" " wire" =2   (expected digit 3.6)
+
+My favorite animal is a
+  true: ' dog' 17%  ' cat' 12%  ' panda' 10%  ' tiger' 3%  ' lion' 3%
+  said: " dog" " cat" " panda" =1   (expected digit 2.2)
+
+Team, rush
+  true: ' to' 22%  ',' 8%  ' the' 6%  ' hour' 5%  ' and' 2%
+  said: " to" " the" " hour" =1   (expected digit 2.2)
+
+The frontier of intelligence is currently lead by
+  true: ' the' 16%  ' large' 7%  ' deep' 5%  ' a' 5%  ' machine' 4%
+  said: " the" " large" " a" =1   (expected digit 1.9)
